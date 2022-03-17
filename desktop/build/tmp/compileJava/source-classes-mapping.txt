@@ -1,0 +1,2 @@
+com/mygdx/game/desktop/TresureQuestLauncher.java
+ com.mygdx.game.desktop.TresureQuestLauncher
